@@ -1,4 +1,4 @@
-# Transformer Replication — From First Principles
+# Transformer Replication From First Principles
 
 This repository documents a **step-by-step, learning-oriented replication** of the core ideas from  
 **“Attention Is All You Need” (Vaswani et al., 2017)**.
@@ -12,7 +12,7 @@ This project emphasizes:
 
 ---
 
-## Replication Plan (Methodical, Incremental)
+## Replication Plan 
 
 The implementation follows a deliberately staged plan, where each step is validated before moving on.
 
